@@ -25,9 +25,7 @@ const desserts = [
     createdAt: "2022-01-04",
   },
 ];
-git remote add origin https://github.com/smbbagudu/Advanced-react-graded-assignment.git
-git branch -M Minna
-git push -u origin Minna
+
 export default function App() {
   return (
     <div className="App">
